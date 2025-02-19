@@ -1,4 +1,3 @@
-#!/bin/bash
 # Masuk ke folder project Laravel
 cd /C:/xampp/htdocs/Progress_Web_RD
 
